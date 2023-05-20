@@ -19,10 +19,12 @@
   ## Usage
   For example after doing the "node index.js" command it will ask for the project title, just input the name and the prompts will guide you through any information you should need to input.
 
+
+  ![image](https://github.com/alexoserna/auto-README-generator/assets/118146045/751023f7-4f7f-46ed-a094-a476b30c7290)
+  [Vide Demonstration](https://drive.google.com/file/d/1HHrEhMprYrpp2_z9kquUEP725uNWntEF/view?usp=sharing)
+
    ## License
   This project is licensed under the [MIT License](https://opensource.org/license/mit/) - Click for more information
-
-  
 
   ## Tests
   You can test the project by starting it up and entering in all fields and if a README is generated then it is working properly. If not then there is a bug.
