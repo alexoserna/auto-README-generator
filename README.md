@@ -26,9 +26,6 @@
    ## License
   This project is licensed under the [MIT License](https://opensource.org/license/mit/) - Click for more information
 
-  ## Tests
-  You can test the project by starting it up and entering in all fields and if a README is generated then it is working properly. If not then there is a bug.
-  
   ## Questions
   If you have any questions you can reach me here:
   Github: [alexoserna](https://github.com/alexoserna)
